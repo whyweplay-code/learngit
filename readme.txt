@@ -1,6 +1,6 @@
 git is a distributed version control system.
 git is free software distributed under the GPL.
-git is very good
+git is very good yes ican
 study for money
 git tracks changes
 dev dev
