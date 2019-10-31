@@ -8,6 +8,3 @@ git is very good yes ican
 study for money and home and myself
 >>>>>>> 6853844... fix 01
 git tracks changes
-dev dev
-ssssssssssss
-哈哈哈
